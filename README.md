@@ -1,24 +1,18 @@
-# README
+Online Art Portfolio
+---------------------
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an **Online Art Portfolio** for a local artist developed with [Ruby on Rails](http://rubyonrails.org/), **HTML 5** and **Less**
+You can check the production site at http://www.enne.com.ar/
 
-Things you may want to cover:
+## Run & Test ##
+You can run this site locally to test functionality and responsiveness.
+ - Clone this repository
+ - Install the Rail Gems with `bundle install`
+ - Install bower packages with: `bower install`
+ - Run the site with: `rails s`
+ - Go to: http://localhost:3000/
 
-* Ruby version
+## Landing page ##
+The site has a landing page with all the necessary information for the clients including comments, photo gallery, activities, map a contact form.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![< Landing page screenshot >](./app/assets/images/screenshots/landing_page.png)

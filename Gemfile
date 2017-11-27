@@ -9,6 +9,9 @@ gem 'bower'
 
 # Stylesheets
 gem 'sass-rails', '~> 5.0'
+# Less
+gem 'therubyracer'
+gem 'less-rails'
 
 # JavaScript
 gem 'uglifier', '>= 1.3.0'
